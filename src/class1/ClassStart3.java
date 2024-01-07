@@ -1,6 +1,6 @@
 package class1;
 
-public class ClsssStart3 {
+public class ClassStart3 {
     public static void main(String[] args) {
         Student student1;
         student1 = new Student(); //x001 - 참조값을 student1에 담아둔다.
